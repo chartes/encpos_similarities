@@ -1,0 +1,5 @@
+identifier: ENCPOS_1876_09
+creator: Joseph Vaesen
+date: 1876
+title: La juridiction commerciale à Lyon, étude sur conservation des privilèges des foires de Lyon (1463-1795)
+

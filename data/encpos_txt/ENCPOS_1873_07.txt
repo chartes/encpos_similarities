@@ -1,0 +1,5 @@
+identifier: ENCPOS_1873_07
+creator: Robert de Lasteyrie
+date: 1873
+title: De l’origine des vicomtes de Limoges
+

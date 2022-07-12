@@ -1,0 +1,5 @@
+identifier: ENCPOS_1850_01
+creator: Anatole de Courde de Montaiglon
+date: 1850
+title: Essai de dictionnaire des anciens peintres français pendant le Moyen Âge et la Renaissance
+

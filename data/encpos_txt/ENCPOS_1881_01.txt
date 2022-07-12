@@ -1,0 +1,5 @@
+identifier: ENCPOS_1881_01
+creator: Armand Bénet
+date: 1881
+title: Étude sur la diplomatique des ducs de Normandie, 912-1189
+

@@ -1,0 +1,5 @@
+identifier: ENCPOS_1853_02
+creator: Martin Bertrandy
+date: 1853
+title: Élection et couronnement du pape Jean XXII
+

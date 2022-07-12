@@ -1,0 +1,5 @@
+identifier: ENCPOS_1883_17
+creator: Joseph de Sainte-Agathe
+date: 1883
+title: Les origines du fief en Franche-Comté et son organisation au xiiie siècle
+

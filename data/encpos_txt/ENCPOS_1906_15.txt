@@ -1,0 +1,5 @@
+identifier: ENCPOS_1906_15
+creator: Maurice Jusselin
+date: 1906
+title: L’impôt royal sous Philippe le Bel (1292-1304)
+

@@ -1,0 +1,5 @@
+identifier: ENCPOS_1853_06
+creator: Alfred Giraud
+date: 1853
+title: Du Mundium
+

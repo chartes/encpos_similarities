@@ -1,0 +1,5 @@
+identifier: ENCPOS_1878_07
+creator: Henri Furgeot
+date: 1878
+title: Les baillis de Macon sénéchaux de Lyon (1239-1790)
+

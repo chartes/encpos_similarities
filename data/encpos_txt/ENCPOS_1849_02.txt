@@ -1,0 +1,5 @@
+identifier: ENCPOS_1849_02
+creator: Dominique-Claude Boisserand
+date: 1849
+title: Marguilliers laïques des églises de Paris
+

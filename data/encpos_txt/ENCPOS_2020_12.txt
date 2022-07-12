@@ -1,0 +1,209 @@
+identifier: ENCPOS_2020_12
+creator: François Mottais
+date: 2020
+title: Haec qvalicvmqve svnt [...] pvblicvm accipiant : la réception des Silves de Stace chez les poètes de l’Antiquité tardive
+
+
+
+== Introduction ==
+
+Stace (vers 45-vers 96) est un poète de langue latine né à Naples, connu pour son œuvre épique (Thébaïde et Achilléide) mais aussi pour un recueil en cinq livres, les Silves, formé de trente-deux pièces qui sont pour la plupart des poèmes de commande à finalité élogieuse et ont été créées, aux dires du poète, sous l’effet d’un subitus calor.
+Stace écrit pour Domitien (80-96) mais aussi pour des particuliers, de riches Romains retirés de la vie politique qui demandent au poète napolitain de composer des poèmes pour différentes circonstances.
+La signification du titre de Silves a fait couler bien de l’encre : il semblerait en définitive qu’il faille y voir une métaphore de la uarietas qui est à l’œuvre dans le recueil.
+Les Silves sont en effet constituées de poèmes qui se rattachent à une multitude de sous-genres, chacun étant destiné à la célébration d’une circonstance particulière : naissance, mort, mariage, départ en voyage, rétablissement d’une grave maladie, etc.
+
+À ces sous-genres s’ajoutent d’autres pièces, notamment de nombreux poèmes ekphrastiques qui s’attachent à la description d’œuvres d’art, d’objets ou d’animaux étonnants, ou des réalisations architecturales de Domitien et des mécènes privés de Stace.
+Le principal élément de continuité unissant les différentes silves est à rechercher dans le projet d’écriture, puisque la très grande majorité de ces pièces ont une fonction encomiastique.
+Chez Stace, l’éloge se fait principalement sur le mode indirect : l’encomium d’un objet se répercute sur son propriétaire, la participation d’une divinité à une cérémonie met en valeur l’acteur principal de cette cérémonie.
+
+L’étude de la réception des Silves chez les poètes tardifs requiert donc de manière impérieuse d’accorder une attention toute particulière aux techniques encomiastiques mises en œuvre : la pratique de l’éloge indirect constitue de ce point de vue un axe d’analyse extrêment révélateur.
+De manière plus générale, la réception des Silvesest donc étroitement liée à la permanence de nombreux usages rhétoriques et de sous-genres poétiques visant à célébrer des occasions spéciales : la combinaison d’emprunts génériques et d’emprunts rhétoriques laisse percevoir l’influence de Stace sur la majeure partie de la production de poésie de circonstance dans l’Antiquité tardive.
+
+
+=== Sources ===
+
+La réception des Silves est abordée par l’intermédiaire de textes composés à travers tout l’empire, du milieu du ive siècle jusqu’au début du viie siècle.
+Outre des poètes peu connus, sont retenus pour le ive siècle Ausone, Paulin de Nole, Prudence et Claudien.
+Pour le ve siècle, ce sont principalement Mérobaude, Sidoine Apollinaire et Ennode de Pavie qui sont étudiés.
+Le vie siècle est représenté par le grand ensemble que constitue la production épigrammatique de l’Afrique vandale à laquelle s’ajoutent les œuvres de Dracontius et de Corippe, ainsi que la vaste production poétique de Venance Fortunat, dernier poète pris en compte, qui meurt au début du viie siècle (609).
+
+La totalité de ces textes est déjà éditée.
+Les éditions de la Collection des universités de France aux Belles Lettres ont été employées dans la plupart des cas ; elles ont fait l’objet, autant que nécessaire, de traductions à nouveaux frais.
+
+
+== Première partie La poikiliasilvaine et l’Antiquité tardive : des reprises génériques variées ==
+
+
+=== Chapitre premier La fortune de l’épithalame : transmission et renouvellement d’un genre ===
+
+Dans les Silves, le genre de l’épithalame est représenté par un unique poème (I, 2), adressé à un mécène de Stace, Stella, à l’occasion de son mariage avec une riche veuve romaine, Violentilla.
+L’épithalame est un genre déjà présent dans la tradition romaine avant Stace, illustré entre autres par Catulle, mais c’est le poète napolitain qui lui donne la forme sous laquelle il apparaîtra chez les poètes de la latinité tardive.
+Stace propose notamment une structure narrative particulière, comprenant une analepse et un passage dans le monde des dieux, ainsi que des procédés épidictiques typiques qui connaîtront un vif succès.
+
+On observe ainsi chez Claudien, Sidoine Apollinaire, Ennode de Pavie et Venance Fortunat la reprise de motifs caractéristiques directement empruntés aux Silves : discours élogieux de Vénus et de Cupidon envers les deux mariés, description du palais de la déesse qui agit comme une métaphore des qualités de l’épouse, topos de la nourrice divine identifié par François Ploton-Nicollet.
+L’imitation que ces poètes réalisent est cependant porteuse de renouvellement et les goûts proprement tardo-antiques trouvent matière à s’exprimer, tantôt du point de vue du style grâce à des énumérations ou à l’emploi du jeweled stylethéorisé par Michael Roberts, tantôt du point de vue de la structure par une réduction du modèle stacien à quelques éléments frappants – début du poème dans le monde des dieux, conclusion abrupte par une adlocutio sponsalis expédiée parfois de manière fort rapide –, tantôt du point de vue socio-culturel à travers l’introduction dans le poème de questionnements contemporains.
+Ces quatre poètes proposent donc une réinterprétation fidèle de Stace, mais dynamique et actualisée.
+
+Deux autres auteurs révèlent la polymorphie de l’héritage silvain.
+Dans son épithalame pour Julianus et Titia, Paulin de Nole procède ainsi à une retractatioreligieuse de l’épithalame pour Stella et Violentilla.
+Il christianise en effet nombre de motifs staciens et chasse loin de son poème toutes les divinités païennes, dont le couple, fondamental chez Stace, que constituent Vénus et Amour.
+L’héritage de l’épithalame stacien est traité de manière tout à fait différente par Dracontius.
+En effet, les deux épithalames qu’il a composés n’ont que peu à voir avec la silve I, 2.
+Toutefois, de nettes réminiscences de ce poème s’observent ailleurs dans l’œuvre de Dracontius qui a recours à des motifs très typés, comme celui de la nourrice divine.
+Si ce topos remplit chez Stace un rôle épidictique – il s’agit de mettre en valeur l’enfant que la nourrice divine prenait dans ses bras –, Dracontius, lui, ne l’emploie plus que comme une charmante image dénuée de toute fonction élogieuse.
+
+Le succès que rencontre l’épithalame de Stace est exceptionnel.
+Les poètes tardifs en tirent en effet un certain nombre d’éléments qui deviendront des marqueurs génériques.
+L’épithalame devient donc un genre essentiellement stacien et les auteurs tardo-antiques se réfèrent aux Silves pour composer leurs propres pièces.
+Modèle, l’épithalame stacien fait toutefois l’objet de retouches et d’adaptations que nécessitent les réalités contemporaines.
+
+
+=== Chapitre II La tradition du généthliaque ===
+
+Le généthliaque est un sous-genre relativement peu représenté dans les Silves : outre le Genethliacon Lucani(II, 7), seule pièce pouvant être considérée comme un généthliaque à part entière, deux pièces (IV, 7 et IV, 8) entretiennent des rapports avec ce genre qui a pour fonction de célébrer un anniversaire.
+La silve II, 7 a pour fonction de fêter un anniversaire particulier, celui de la mort de Lucain.
+Sa visée est bien sûr épidictique et Stace se livre à un éloge appuyé du poète espagnol, tout en mettant en valeur, de manière plus discrète, Polla, veuve de Lucain et commanditaire du poème.
+Le Genethliacon Lucaniconnaît un réel écho chez trois poètes tardifs, selon deux modes différents.
+
+Tout d’abord, cette silve constitue le modèle principal du Genethliacon Gaudenti, poème de Mérobaude composé à l’occasion du premier anniversaire de Gaudentius, fils d’Aetius.
+Les pièces de Stace et de Mérobaude ont ceci de commun qu’elles respectent de près les conventions rhétoriques définies pour ce genre.
+Elles partagent également une structure narrative identique : le poème débute in medias res avant une analepse puis un mouvement progressif vers le présent et une ouverture finale sur l’avenir.
+Mérobaude emprunte également à Stace de nombreuses techniques épidictiques : motif de la nourrice divine, emplois d’adynata, comparaisons épiques caractéristiques, etc.
+Mérobaude, quand il le peut, enrichit l’hypotexte stacien d’éléments chrétiens, insistant notamment sur l’importance du baptême conféré à l’enfant.
+Il faut toutefois noter que l’éloge de Gaudentius est chez Mérobaude prétexte à un éloge d’Aetius, tandis que Stace se consacre très majoritairement à Lucain et l’éloge de Polla qu’il réalise n’est pas appuyé outre mesure.
+
+De leur côté, Paulin de Nole et Ennode de Pavie ont recours au Genethliacon Lucani de manière plus ponctuelle, en en christianisant systématiquement les motifs.
+Ce phénomène s’observe facilement dans les Nataliciade Paulin de Nole, ensemble de poèmes célébrant l’anniversaire de la mort de Felix.
+Paulin de Nole remplace les figures tutélaires de l’inspiration poétique (Apollon, les Muses, etc.) par des inspirateurs chrétiens (le Christ, les saints).
+De même, il christianise nombre de motifs empruntés au poète napolitain, dont celui de la nourrice divine.
+On observe également dans les Natalicia d’autres réminiscences silvaines qui apportent de l’autorité à l’éloge que Paulin fait de Felix, sans que Stace ne soit considéré comme modèle principal à suivre, à l’inverse de ce que l’on observe chez Mérobaude.
+Il en va de même chez Ennode de Pavie, qui compose un poème pour célébrer la trentième année d’épiscopat de l’évêque Epiphanius.
+Dans cette pièce, Ennode procède de manière tout à fait comparable à ce que l’on observe dans les Natalicia : l’invocation aux sources d’inspiration poétique traditionnelles est christianisée, tout comme certains motifs encomiastiques tels que l’image de la nourrice divine.
+De manière originale, Ennode procède également à une réécriture du mythe d’Orphée, empruntant à la fois au généthliaque stacien, dans lequel Lucain était hyperboliquement comparé au poète thrace, et à Sidoine Apollinaire qui proposait déjà une christianisation de cette figure.
+
+L’héritage du Genethliacon Lucani est donc comparable, dans le type de réception qu’il connaît durant l’Antiquité tardive, à celui de l’épithalame pour Stella et Violentilla : réécriture fidèle d’un côté, christianisation profonde de l’autre.
+
+
+=== Chapitre III Les souvenirs des épicèdes ===
+
+Le sous-genre le plus représenté dans les Silves est celui de l’épicède : six poèmes sérieux auxquels peut s’ajouter une pièce légèrement différente, dédiée à la mémoire d’un perroquet.
+L’épicède est un chant funèbre destiné à honorer la mémoire d’un défunt et, tout comme l’épithalame, il a déjà été illustré dans la littérature latine avant Stace.
+L’epikedion stacien est profondément lié au discours de consolatioet entretient des rapports étroits avec les prescriptions rhétoriques, auxquelles il emprunte une structure-type, assez commune il est vrai : exordium, laudatio, lamentatio et solacia.
+Le passage par la laudatiofournit bien souvent à Stace l’occasion d’effectuer l’éloge, non seulement du défunt, mais également de celui qui le pleure, commanditaire de Stace pour la composition du poème en question.
+
+L’Antiquité tardive nous a laissé de très nombreux poèmes funéraires, épicèdes aussi bien qu’épitaphes, depuis Ausone jusqu’à Venance Fortunat, dans les Carminaduquel les épitaphes occupent la totalité du livre IV. Au vu des échos de l’épithalame stacien, on pourrait attendre de nombreuses réminiscences silvaines dans ces poèmes funéraires.
+Or force est de constater que la présence des Silvesest bien plus discrète, à l’exception notable d’un poème d’Ausone, l’épigramme nº 53, qui imite de manière évidente un épicède stacien (II, 1).
+Les autres poèmes funéraires d’Ausone laissant percevoir des réminiscences staciennes sont les Parentalia, recueil de pièces dédiées à la mémoire des proches du poète bordelais, où l’on peut observer le remploi de quelques motifs déjà identifiables dans les Silves, notamment celui du funus acerbum.
+
+Il convient également de noter la christianisation des poèmes funéraires, facilement observable chez Ennode de Pavie et Venance Fortunat.
+Les épitaphes composées par ces deux auteurs s’éloignent de Stace sous l’impulsion de deux facteurs : l’enracinement du christianisme, qui offre une nouvelle conception de la mort, et la pratique, fort courante et très ancienne, de l’épigraphie funéraire, qui pousse ces deux auteurs à favoriser des formes courtes en distiques élégiaques, là où les pièces de Stace atteignent des proportions plus vastes et sont composées en hexamètres dactyliques.
+Les épitaphes d’Ennode de Pavie montrent certes un réel héritage stacien, mais il est issu de l’œuvre épique, tout particulièrement de la Thébaïde, bien plus que des Silves.
+Les poèmes funéraires de Venance Fortunat sont eux aussi assez éloignés des épicèdes staciens : composés selon un schéma structurel très normé, ils sont très marqués par les topoirhétoriques de l’éloge funéraire.
+C’est lorsque Venance s’écarte de ce modèle et notamment lorsqu’il exprime subjectivement sa douleur qu’il laisse entrevoir le plus de réminiscences silvaines.
+
+De manière globale, force est donc de constater que les épicèdes ont connu un succès bien moindre que l’épithalame et que le généthliaque.
+
+
+== Deuxième partie La représentation de l’art dans les Silves : héritages tardo-antiques ==
+
+
+=== Chapitre premier Décrire les œuvres d’art et les objets précieux ===
+
+Les Silvesprésentent un grand nombre de poèmes à caractère ekphrastique.
+Les œuvres d’art de ses mécènes attirent tout particulièrement l’attention de Stace et deux pièces sont intégralement dédiées à la description de statues : la silve I, 1, consacrée à la statue colossale de Domitien sur le Forum, et la silve IV, 6, évocation de la statuette miniature d’Hercule que possède Novius Vindex, riche mécène de Stace.
+Des évocations de collections d’œuvres parsèment également différents poèmes, sans que le poète napolitain ne s’attache dans ce cas à des descriptions détaillées.
+
+La plupart des auteurs tardifs emploient le genre épigrammatique lorsqu’ils effectuent des descriptions d’œuvres d’art.
+Or l’écriture silvaine entretient des rapports étroits avec l’épigrammatique, en dépit de quelques différences majeures, telles que la longueur des poèmes ou le mètre employé.
+
+Dans ces conditions, la foule d’ekphraseisd’œuvres d’art que l’on rencontre chez les poètes tardifs présentent des caractéristiques souvent proches de ce que l’on lit dans les Silves.
+Tout d’abord, la description d’une œuvre d’art est souvent liée au déploiement d’une esthétique de la merveille : le poète décrit avec grande admiration la sculpture ou la peinture qu’il a sous les yeux.
+Cette esthétique se laisse identifier par un recours à un lexique typé, marqué notamment par l’emploi de miroret de ses dérivés, et par des topoidont certains, comme celui de l’enargeia, sont tout à fait courants durant toute l’Antiquité.
+
+La description d’une œuvre est aussi l’occasion pour ces auteurs de s’interroger sur leur propre pratique poétique : Stace penche tantôt vers l’écriture épique, tantôt vers une composition plus apaisée et empreinte de moins de grandeur, et les poètes tardifs poursuivent cette expérimentation poétique.
+Stace et ses successeurs portent également un intérêt aux circonstances historiques et aux mythes auxquels sont associées les œuvres en question.
+Dépassant le cadre purement ekphrastique, les évocations de ces objets remplissent très souvent des objectifs encomiastiques, par le biais d’allusion à des événements plus ou moins récents.
+
+
+=== Chapitre II Nil ibi plebeivm : le traitement des marbres chez Stace et les poètes tardifs ===
+
+Le marbre est un objet au statut très particulier pour les Anciens : son extraction et son transport difficile, son caractère souvent exotique, la nécessité de le retoucher et sa capacité à imiter les couleurs de la nature lui confèrent une place à part dans les riches demeures aristocratiques du temps de Stace.
+Le poète napolitain se plaît à décrire, sous la forme de catalogue, motif d’origine épique, les différents marbres qu’il admire au cours de ses séjours dans les domaines de ses mécènes (I, 2 et II, 2), dans le palais de Domitien (IV, 2), mais aussi dans le complexe thermal de Claudius Etruscus (I, 5).
+Composés d’un nombre relativement réduit de marbres différents, ces catalogues remplissent une double fonction : il s’agit tout d’abord pour Stace de vanter ses différents mécènes en mettant en lumière leur richesse et leur goût.
+Mais le poète napolitain y expose également son goût pour l’imitation et le dépassement des beautés naturelles : le marbre apparaît comme un produit de l’homme et son statut n’est pas très éloigné de celui d’une œuvre d’art.
+
+La réception de ces catalogues est remarquable chez deux auteurs, Prudence et Sidoine Apollinaire.
+Le premier effectue une retractatiochrétienne de ces marbres dans la description du temple de l’âme que l’on trouve dans la Psychomachie : à partir du modèle poétique stacien, qui apparaît clairement dans les types de marbres évoqués et dans la reprise de certaines iuncturae, Prudence rejette un matériau sans doute trop associé au paganisme et met en lumière les vertus chrétiennes.
+Sidoine Apollinaire n’effectue pas de recusatioreligieuse du modèle silvain : les trois catalogues de marbres que l’on lit dans son œuvre – dans la description de la demeure (burgus) de son ami Pontius Leontius (carmen XXIII), dans celle du séjour de Rome au sein du Panégyrique de Majorien et dans l’ekphrasisdu palais de Vénus présente dans l’épithalame pour Ruricius et Hiberia – laissent sans ambiguïté percevoir l’admiration de Sidoine Apollinaire pour Stace.
+Toutefois ces trois catalogues laissent également entrevoir certains traits propres à l’écriture tardo-antique : goût pour la couleur et l’éclat, emploi de vers entièrement asyndétiques, etc.
+
+Si Prudence et Sidoine Apollinaire sont les deux seuls poètes à avoir composé des catalogues de marbres, les souvenirs staciens sont toutefois nombreux et facilement identifiables chez les poètes tardifs lorsqu’il est question de ces pierres au statut si particulier.
+Si les évocations de marbres chez Claudien et Rutilius Namatianus laissent entrevoir des rappels ponctuels des Silves, la continuité est plus importante lorsqu’il est question du marbre vert de Laconie, toujours évoqué de la même façon chez Stace, Mérobaude et Sidoine Apollinaire, au sein de catalogues de marbres mais aussi de manière isolée.
+
+Force est toutefois de constater que les poètes tardifs ont de plus en plus tendance à privilégier les catalogues de pierres précieuses aux énumérations de marbres, sans doute en raison de l’importance de l’intertexte scripturaire relatif aux premières.
+Si les marbres sont moins évoqués, la présence silvaine reste réelle dans les techniques énumératives à l’œuvre par exemple chez Venance Fortunat.
+
+
+== Troisième partie Le paysage dans les Silves : la description d’une nature dominée comme discours encomiastique ==
+
+
+=== Chapitre premier Les poèmes de villa de Stace et leur succès ===
+
+Les Silvesprésentent à deux reprises des descriptions de villas visitées par Stace.
+Elles appartiennent à de riches mécènes, Manilius Vopiscus (I, 3) et Pollius Felix (II, 2).
+Le recueil contient également plusieurs pièces qui offrent de nombreux points communs avec ces poèmes : la description des bains de Claudius Etruscus (I, 5) et celle de la restauration du temple d’Hercule à Sorrente, dans un domaine appartenant à Pollius Felix (III, 1).
+Ces quatre poèmes sont unis par leur visée encomiastique et les beautés de ces lieux sont des métaphores des qualités de leurs propriétaires.
+S’y exprime également le point de vue personnel que Stace porte sur la nature et plus particulièrement sur les entreprises humaines : à ses yeux, la technique et l’artifice sont toujours susceptibles d’améliorer les charmes naturels d’un lieu.
+
+La conjugaison de ces deux caractéristiques est identifiable de façon claire chez Sidoine Apollinaire qui décrit à la manière de Stace le burgus de son ami Pontius Leontius (carmen XXIII) et celle d’un certain Consentius (carmenXXII).
+Les autres poètes tardifs ne laissent pas entrevoir de réminiscences aussi nettes mais certains motifs-types comme celui de l’animation du décor sont empruntés aux Silves par Mérobaude, des poètes vandales ou Venance Fortunat.
+Les descriptions des villas de Leontius dans l’œuvre de Venance Fortunat (carminaI, 18 à 20) montrent quant à elles une présence certaine des Silves mais aussi d’autres souvenirs littéraires, en particulier la Moselled’Ausone, et d’un intertexte scripturaire.
+
+L’influence qu’Ausone a eue sur Venance Fortunat dans la composition de ces trois poèmes pousse à considérer les liens que le poète bordelais entretient avec les Silves.
+Une lecture de la Moselleau prisme de l’héritage stacien s’avère révélatrice : Ausone emprunte beaucoup au poète napolitain mais la conception qu’il propose des relations entre l’homme et la nature diffère largement de celle des Silves, puisqu’Ausone paraît convaincu que la véritable beauté réside dans un état naturel où l’homme n’intervient pas ou très peu.
+Les poèmes mosellans de Venance Fortunat (carminaIII, 12 et III, 13) montrent quant à eux la double influence de Stace et d’Ausone.
+À ces deux hypotextes d’importance s’ajoutent les souvenirs des descriptions poétiques d’édifices chrétiens chez Prudence et Paulin de Nole.
+
+L’examen du temple de l’âme que Prudence dépeint dans sa Psychomachieainsi que les évocations du complexe félicien que l’on trouve dans les Nataliciade Paulin de Nole montrent quelques souvenirs des descriptions de villas des Silves.
+Il s’agit principalement de notations liées à l’éclat et à la couleur, réinterprétées par Prudence et Paulin selon une lecture chrétienne.
+Les descriptions d’églises chez nombre d’autres poètes tardifs (Sidoine Apollinaire, Ennode de Pavie, Venance Fortunat) combinent les emprunts à Stace, Prudence et Paulin de Nole.
+
+
+=== Chapitre II Le jardin ou l’expression d’un pouvoir total sur la nature ===
+
+Quoique Stace ne consacre jamais l’intégralité d’une silve à la description d’un jardin, c’est un lieu que l’on rencontre à de multiples reprises au sein de son œuvre.
+Constitutif du toposdu locus amoenus, le jardin de Stace est un endroit frais, souvent bordé par un cours d’eau.
+Il est l’expression d’un lieu idéal, symbole de la réussite du projet de transformation que les mécènes de Stace entreprennent sur leur domaine.
+
+La postérité des jardins des Silvesest grande chez Mérobaude qui consacre un poème entier, le carmenIII, De uiridiaris uiri inlustris Fausti, à la description d’un jardin.
+Le chantre d’Aetius emprunte plusieurs éléments à Stace, notamment l’insistance sur la fraîcheur de l’endroit par le biais d’un adynatontrès typé – l’hiver en été – et en mettant en scène des groupes de statues qui paraissent animées d’un souffle de vie, motif très stacien.
+Les jardins décrits par Ennode de Pavie présentent également un grand intérêt puisqu’Ennode emprunte à Stace des motifs et des expressions mais aussi l’idée que le jardin est bien souvent l’expression d’une forme de pouvoir, qu’il soit rhétorique, dans le carmen2, 44, In ingressu horti, ou politique, dans le carmen2, 111, De horto regis.
+Le jardin décrit dans le carmenV de l’Appendix Maximiani présente lui aussi de nombreuses réminiscences silvaines : outre des iuncturae clairement empruntées à Stace, ce poème met en scène une esthétique de la merveille dans un esprit tout à fait semblable à celui des Silves, via notamment le motif caractéristique de l’arbre isolé et préservé au sein de la maison.
+Toutefois les poètes postérieurs ont moins recours à Stace dans leurs descriptions de jardins : les souvenirs des Silvesse font relativement rares chez Luxorius et leur présence chez Venance Fortunat est à peine visible, tant ce poète privilégie la symbolique chrétienne lorsqu’il décrit des jardins.
+
+
+=== Chapitre III La tradition des descriptions de bains et son rapport aux Silves ===
+
+Stace évoque les complexes thermaux de ses mécènes selon deux modes particuliers : d’une part, il consacre l’intégralité d’une silve à la description des luxueux bains de Claudius Etruscus (I, 5) ; d’autre part, des évocations plus rapides sont présentes dans les poèmes de villas (I, 3 et II, 2).
+Comme souvent, l’éloge indirect tient un rôle prépondérant dans ces descriptions : il s’agit pour Stace de souligner la richesse de ses mécènes qui ont su dompter et adapter leur environnement pour en tirer le meilleur.
+Chez les poètes tardifs, les évocations de bains empruntent de façon indifférenciée aux deux manières dont Stace décrit les thermes.
+
+Dans la Moselled’Ausone, l’évocation des bains présents au bord du fleuve rappelle très nettement l’écriture silvaine, du fait notamment de nombreux remplois lexicaux.
+On y observe une réelle admiration pour la technique humaine, même si le goût d’Ausone reste finalement du côté de la nature inviolée puisque c’est la fraîcheur du fleuve que préfèrent les baigneurs.
+Chez Sidoine Apollinaire, on trouve une brève description de bains dans le carmenXXII ; force est toutefois de constater que le poète gaulois se trouve plutôt du côté de Martial que de Stace dans ce cas précis.
+
+Les évocations de thermes sont fort nombreuses dans la production épigrammatique tardo-antique et présentent plusieurs points communs avec les Silves.
+Ainsi la comparaison des bains avec le modèle d’excellence que constitue Baïes acquiert un statut presque topique.
+Un autre motif récurrent est celui de la concordia discorsinstaurée par la technique humaine qui mêle le feu et l’eau, selon un adynatontout à fait caractéristique de l’esthétique silvaine.
+
+
+== Conclusion ==
+
+Les Silvesont connu un succès certain, mais inégal du point de vue générique : l’étude de trois sous-genres montre l’influence variable qu’a exercée Stace sur les poètes tardo-antiques.
+L’épithalame pour Stella et Violentilla acquiert le statut de modèle générique ; le Genethliacon Lucani, s’il connaît un succès moindre, reçoit un écho chez certains auteurs.
+À l’inverse, les épicèdes, pourtant fort nombreux, sont relativement peu imités.
+
+Le Stace des Silvesaccorde un traitement tout à fait particulier aux œuvres d’art, aux objets précieux et aux réalisations architecturales de ses mécènes : ce vaste ensemble est placé sous le signe de l’admiration pour la technique humaine, qui s’exprime dans le recours fréquent à l’esthétique de la merveille, ce dont se souviennent assurément les poètes tardifs.
+
+Jean-Louis Charlet dégage cinq caractéristiques dans l’esthétique néo-alexandrine qui alimentent la production poétique tardo-antique : le mélange des tons et des genres, la composition en médaillons, le goût pour la métamorphose, l’incertain et l’illusion, la fascination pour la merveille et l’adynaton, et l’attention portée à la virtuosité métrique.
+Le succès des Silves auprès des auteurs tardifs est sans doute dû au fait qu’ils contiennent en germe nombre de ces caractéristiques : celles-ci justifient le qualificatif d’expérimental qu’a donné Perrine Galand à l’écriture des Silves.

@@ -1,0 +1,5 @@
+identifier: ENCPOS_1868_02
+creator: Fernand Calmettes
+date: 1868
+title: Essai sur le grafio, depuis son origine jusqu’à la fin des temps mérovingiens
+

@@ -1,0 +1,5 @@
+identifier: ENCPOS_1852_06
+creator: Adolphe Baudoin
+date: 1852
+title: Traduction du poème d’Adalbéron, évêque de Laon
+

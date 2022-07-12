@@ -1,0 +1,5 @@
+identifier: ENCPOS_1878_04
+creator: Charles Durier
+date: 1878
+title: Essai sur les revenus d’Enguerrand de Marigny, suivi de son cartulaire
+

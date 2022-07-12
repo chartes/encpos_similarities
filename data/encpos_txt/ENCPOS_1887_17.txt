@@ -1,0 +1,5 @@
+identifier: ENCPOS_1887_17
+creator: Jean Virey
+date: 1887
+title: Les églises romanes de l’ancien diocèse de Mâcon
+

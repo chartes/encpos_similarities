@@ -1,0 +1,5 @@
+identifier: ENCPOS_1867_06
+creator: Victor-Tranquille Duchemin
+date: 1867
+title: Étude sur Gautier de Coutances (1157-1207)
+

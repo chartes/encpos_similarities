@@ -1,0 +1,5 @@
+identifier: ENCPOS_1866_02
+creator: Gustave Fagniez
+date: 1866
+title: De l’organisation du travail industriel à Paris aux xiiie et xive siècles
+

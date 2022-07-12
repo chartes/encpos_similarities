@@ -1,0 +1,5 @@
+identifier: ENCPOS_1868_11
+creator: Arthur Loth
+date: 1868
+title: Le Songe du Vergier
+

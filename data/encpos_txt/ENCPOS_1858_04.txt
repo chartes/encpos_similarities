@@ -1,0 +1,5 @@
+identifier: ENCPOS_1858_04
+creator: Alexandre Gouget
+date: 1858
+title: Étude sur l’établissement des généraux des aides
+

@@ -1,0 +1,5 @@
+identifier: ENCPOS_1883_11
+creator: Joseph-Henri Gaillard
+date: 1883
+title: Le Châtelet de Paris sous l’administration de Jean de Folleville, prévôt de Paris sous le règne de Charles VI (1389-1401)
+

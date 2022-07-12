@@ -1,0 +1,5 @@
+identifier: ENCPOS_1857_04
+creator: Auguste Kroeber
+date: 1857
+title: Des cours colongères en Alsace
+

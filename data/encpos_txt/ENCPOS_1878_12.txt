@@ -1,0 +1,5 @@
+identifier: ENCPOS_1878_12
+creator: Octave Raguenet
+date: 1878
+title: Étude sur l’administration et les revenus du trésor royal sous Philippe le Bel, d’après le Journal du Louvre
+

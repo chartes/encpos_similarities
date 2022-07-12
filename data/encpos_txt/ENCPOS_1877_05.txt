@@ -1,0 +1,5 @@
+identifier: ENCPOS_1877_05
+creator: Charles Dufourmantelle
+date: 1877
+title: La marine militaire en France au commencement de la guerre de Cent ans
+

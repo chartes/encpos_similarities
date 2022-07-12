@@ -1,0 +1,5 @@
+identifier: ENCPOS_1883_09
+creator: Georges Durand
+date: 1883
+title: Architecture religieuse du pays de Vosges (1000-1250)
+

@@ -1,0 +1,5 @@
+identifier: ENCPOS_1855_06
+creator: Marie-Joseph-Étienne Junca
+date: 1855
+title: Du commerce des marchands et usuriers lombards en France jusqu’à la fin du règne de Charles VI
+

@@ -1,0 +1,5 @@
+identifier: ENCPOS_1877_06
+creator: Alfred Chilhaud-Dumaine
+date: 1877
+title: Savari de Mauléon
+

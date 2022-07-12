@@ -1,0 +1,5 @@
+identifier: ENCPOS_1852_05
+creator: Louis-Émile Mabille
+date: 1852
+title: Essai sur l’histoire géographique et topographique de l’ancienne Touraine avant le xie siècle
+
