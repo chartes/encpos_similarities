@@ -5,7 +5,7 @@ DH2022 files
 
 ## data_structured
 
-### `enpos_structured_sents.json`
+### `encpos_structured_sents.json`
 
 dump JSON du corpus structuré (dictionnaire par position puis chapitre > liste des phrases)
 
