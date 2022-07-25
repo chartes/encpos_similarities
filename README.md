@@ -34,3 +34,8 @@ dump JSON du corpus structuré (dictionnaire par position puis chapitre > liste 
     ]
    }
 ```
+
+
+## Tutorial (Google Colab/Drive)
+
+A Jupyter Notebook is available to demo run, check out the tutorial on Google Colab : [![Open In Collab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1wFegH8SIuDsgY2z7cM-nW6LqDk_Lvwht?usp=sharing)
